@@ -1,7 +1,6 @@
-﻿* linguist-vendored
-*.php linguist-vendored=false
-*.sql linguist-vendored=false
-**/*.css linguist-vendored=true
-**/*.html linguist-vendored=true
-**/*.js linguist-vendored=true
-**/*.less linguist-vendored=true
+﻿bootstrap-4.0.0/** linguist-vendored=true
+sql file/** linguist-documentation=true
+*.css linguist-vendored=true
+*.js linguist-vendored=true
+*.less linguist-vendored=true
+*.html linguist-vendored=true
