@@ -1,4 +1,8 @@
-﻿bootstrap-4.0.0/** linguist-vendored
-tms/jquery-bar-rating-master/** linguist-vendored
-tms/js/** linguist-vendored
+﻿*.css linguist-vendored
+*.js linguist-vendored
+*.less linguist-vendored
+bootstrap-4.0.0/** linguist-vendored
 tms/css/** linguist-vendored
+tms/js/** linguist-vendored
+tms/fonts/** linguist-vendored
+tms/includes/** linguist-vendored
