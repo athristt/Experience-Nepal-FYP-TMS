@@ -1,13 +1,14 @@
-﻿*.css linguist-vendored=true
-*.scss linguist-vendored=true
-*.less linguist-vendored=true
-*.js linguist-vendored=true
-*.rb linguist-vendored=true
-*.sh linguist-vendored=true
-*.hack linguist-vendored=true
-*.map linguist-generated=true
-*.min.css linguist-generated=true
-*.min.js linguist-generated=true
+﻿# Third-party Bootstrap library
+/bootstrap-4.0.0/** linguist-vendored=true
 
-*.php linguist-vendored=false
-*.sql linguist-vendored=false
+# Third-party jQuery rating library
+/tms/jquery-bar-rating-master/** linguist-vendored=true
+
+# Third-party dependencies
+/tms/vendor/** linguist-vendored=true
+/tms/node_modules/** linguist-vendored=true
+
+# Generated/minified assets
+**/*.min.css linguist-generated=true
+**/*.min.js linguist-generated=true
+**/*.map linguist-generated=true
