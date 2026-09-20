@@ -1,10 +1,29 @@
 ﻿# Third-party Bootstrap library
 /bootstrap-4.0.0/** linguist-vendored=true
 
-# Third-party jQuery rating library
-/tms/jquery-bar-rating-master/** linguist-vendored=true
+# Third-party CSS/templates inside TMS
+/tms/css/css/style1.css linguist-vendored=true
+/tms/admin/css/style.css linguist-vendored=true
+/tms/css/bootstrap.css linguist-vendored=true
+/tms/css/bootstrap.min.css linguist-vendored=true
+/tms/admin/css/bootstrap.min.css linguist-vendored=true
+/tms/css/css/animate.css linguist-vendored=true
+/tms/css/animate.css linguist-vendored=true
+/tms/css/css/icomoon.css linguist-vendored=true
+/tms/css/css/ionicons.min.css linguist-vendored=true
+/tms/css/css/aos.css linguist-vendored=true
+/tms/css/css/open-iconic-bootstrap.min.css linguist-vendored=true
+/tms/css/css/bootstrap/bootstrap-grid.css linguist-vendored=true
+/tms/css/font-awesome.css linguist-vendored=true
+/tms/admin/css/font-awesome.css linguist-vendored=true
+/tms/css/jquery-ui.css linguist-vendored=true
+/tms/admin/css/jquery-ui.css linguist-vendored=true
+/tms/css/css/bootstrap-datepicker.css linguist-vendored=true
+/tms/admin/css/icon-font.min.css linguist-vendored=true
+/tms/css/css/magnific-popup.css linguist-vendored=true
 
-# Third-party dependencies
+# Third-party libraries
+/tms/jquery-bar-rating-master/** linguist-vendored=true
 /tms/vendor/** linguist-vendored=true
 /tms/node_modules/** linguist-vendored=true
 
