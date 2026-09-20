@@ -1,3 +1,9 @@
-﻿* linguist-vendored
-*.php linguist-detectable=true linguist-vendored=false
-*.sql linguist-detectable=true linguist-vendored=false
+* linguist-vendored
+*.php linguist-vendored=false
+*.php linguist-detectable=true
+*.sql linguist-vendored=false
+*.sql linguist-detectable=true
+*.css linguist-vendored=true
+*.html linguist-vendored=true
+*.js linguist-vendored=true
+*.less linguist-vendored=true
